@@ -1,0 +1,3 @@
+hadoop is a framework to process big data.
+hadoop has two components namely hdfs and mapreduce.
+hdfs is a distributed data storage framework where as mapreduce is distributed data processing framework.
